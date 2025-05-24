@@ -1,2 +1,3 @@
 # degenatron.com
-degenatron webpage from 2000
+# https://the-rg-archive.github.io/degenatron.com/
+
